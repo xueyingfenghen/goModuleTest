@@ -1,4 +1,4 @@
-package morestrings
+package goModuleTest
 
 import "fmt"
 
